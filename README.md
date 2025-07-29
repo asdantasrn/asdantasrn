@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a beginner programmer, studying programming languages daily.
+I'm a beginner programmer, studying programming languages daily.<br>
 currently studying ... 
 <br>
 <img src="http://img.shields.io/badge/HTML-5E34F26?style=for-the-badge&logoColor=white" alt="html-logo" />
